@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### &ensp; &ensp; Hi, I am a bachelor degree candidate in Beihang University under supervision of Professor [Jichang Zhao](http://zhaojichang.cn/). My current work is about NLP and data visualization by python. Data visualization is of great interest to me, so I hope to be a data visualization！
+#### &ensp; &ensp; Hi, I am a bachelor degree candidate in Beihang University under supervision of Professor [Jichang Zhao](http://zhaojichang.cn/). My current work is about NLP and data visualization by python. Data visualization is of great interest to me, so I hope to be a data scientist！
 
 
 ## Working Projects
