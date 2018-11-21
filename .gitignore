@@ -6,6 +6,4 @@ _site/
 .jekyll-metadata
 
 .DS_Store
-.gitignore
-.idea/inspectionProfiles/
-.idea/workspace.xml
+.idea/
