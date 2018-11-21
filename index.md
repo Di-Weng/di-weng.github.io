@@ -18,5 +18,5 @@ layout: default
 ---
 ## Working Papers
 
-### Bad comment have better perfomance? --ranking E-commerce comments with users' emotions.
+### Positive emotions can help rank negative reviews in e-commerce
 
