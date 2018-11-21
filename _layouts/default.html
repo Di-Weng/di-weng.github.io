@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+
+        <p class="view" style="color: #222222">{{ site.education}}</p>
+        <p class="view" style="color: #222222">{{ site.school}}</p>
+        <p class="view" style="color: #222222">{{ site.major}}</p>
+
+
+        {% if site.email %}
+        <p class="view" style="color: #222222"><a href="mailto:{{site.email}}">Email: {{site.email}}</a> </p>
+        {% endif %}
+
+        {% if site.github_link %}
+        <p class="view"><a href="https://{{site.github_link}}">Github: {{site.github_link}}</a></p>
+        {% endif %}
+
+        {% if site.link %}
+          <p class="view" style="color: #222222">Links: <a href="{{site.link}}">{{site.link_name}}</a></p>
+        {% endif %}
+
+
+
+
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
