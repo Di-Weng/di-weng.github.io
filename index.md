@@ -9,7 +9,7 @@ layout: default
 
 ### [Eagle Eye E-commerce Problem Automated Discovery Platform](http://101.200.54.165)
 **flask** **echarts**<br>
-<img src="https://lh3.googleusercontent.com/-phl9HaKgp_Q/W_T1SKW9ENI/AAAAAAAAEpg/qrmq1-zO1D4dAs6UU0zPYyt40scRt9xuACHMYCw/I/%25255BUNSET%25255D" height="210px" width="300px" >
+<img src="https://lh3.googleusercontent.com/-phl9HaKgp_Q/W_T1SKW9ENI/AAAAAAAAEpg/qrmq1-zO1D4dAs6UU0zPYyt40scRt9xuACHMYCw/I/%25255BUNSET%25255D" height="210px" width="315px" >
 
 ### [China Dream Visualization System](http://101.200.54.165:4345)
 **flask** **echarts**<br>
